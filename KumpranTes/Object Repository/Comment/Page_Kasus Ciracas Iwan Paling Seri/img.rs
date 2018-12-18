@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>2f2dd51a-4c9b-4aa1-a60a-0ab7c1dd674e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[3]/div/div/div[2]/div/div/div/div/div/div/div[6]/div/div/div/button/span/div/span/span/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://blue.kumparan.com/uikit-assets/assets/icons/like-55e4e961221e9836d500aff4a2681b84.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;Root__RootWrapper-of43gx-0 MDoEx&quot;]/div[1]/div[@class=&quot;PageWrapper__ContainerWrapper-s12e5q4j-0 dgKpqA&quot;]/div[@class=&quot;Containerweb__Container-sc-1pm2230-0 bprRrM&quot;]/div[@class=&quot;PageWrapper__DesktopWrapper-s12e5q4j-2 euSzdc&quot;]/div[@class=&quot;View__StyledView-sc-1nce11s-0 dlZqSf&quot;]/div[@class=&quot;indexweb__RowDiv-sc-78tqc5-3 hBgMRK&quot;]/div[@class=&quot;PageWrapper__ContentColumn-s12e5q4j-3 cvjbo&quot;]/div[@class=&quot;DetailStoryPage__ArticleWrapper-s1p6574r-0 fvqZIu&quot;]/div[@class=&quot;View__StyledView-sc-1nce11s-0 iZGkxk&quot;]/div[@class=&quot;Cardweb__CardWrapper-spx4z5-0 NuBJv&quot;]/div[@class=&quot;View__StyledView-sc-1nce11s-0 drIZFe&quot;]/div[@class=&quot;View__StyledView-sc-1nce11s-0 dlZqSf&quot;]/div[@class=&quot;indexweb__TRow-sc-78tqc5-0 XNpcw&quot;]/div[@class=&quot;indexweb__TColumn-sc-78tqc5-1 kXLcwG&quot;]/div[@class=&quot;TextBoxweb__StyledTextBox-n41hy7-0 jzRZtu&quot;]/button[@class=&quot;Buttonweb__ButtonWrapper-sc-1tj31rk-0 enAzTt&quot;]/span[@class=&quot;Buttonweb__ButtonContentContainer-sc-1tj31rk-1 jsCqjh&quot;]/div[@class=&quot;ButtonIconweb__ButtonIconContainer-sc-1uh1ewq-0 cFjvPr&quot;]/span[@class=&quot;ButtonIconweb__ButtonIconWrapper-sc-1uh1ewq-1 siTFC&quot;]/span[@class=&quot;Iconweb__IconWrapper-wzfrpq-0 iiPaWv&quot;]/div[@class=&quot;View__StyledView-sc-1nce11s-0 guLykq&quot;]/div[@class=&quot;Iconweb__IconContentWrapper-wzfrpq-1 jeXDKq&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='content']/div/div/div[3]/div/div/div[2]/div/div/div/div/div/div/div[6]/div/div/div/button/span/div/span/span/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat artikel utuh'])[1]/following::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Editor'])[1]/following::img[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suka'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagikan'])[1]/preceding::img[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <value>//img[contains(@src,'https://blue.kumparan.com/uikit-assets/assets/icons/like-55e4e961221e9836d500aff4a2681b84.svg')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[6]/div/div/div/button/span/div/span/span/div/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

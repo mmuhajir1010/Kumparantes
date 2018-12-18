@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tessuitskumparan,Chrome 70.0.3538.110,,2018-12-18 16:42:17,2018-12-18 16:45:48,"3m - 30,468s",FAILED
+,,,,,,
+Test Cases/TestComment,Chrome 70.0.3538.110,,2018-12-18 16:42:18,2018-12-18 16:44:20,"2m - 1,639s",FAILED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-18 16:42:19,2018-12-18 16:43:09,"50,465s",PASSED
+"navigateToUrl(""https://kumparan.com/"")",Chrome 70.0.3538.110,,2018-12-18 16:43:09,2018-12-18 16:43:54,"44,687s",PASSED
+"click(findTestObject(""Object Repository/Comment/Page_Platform Media Berita Kolabora/button_TIDAK""))",Chrome 70.0.3538.110,,2018-12-18 16:43:54,2018-12-18 16:43:56,"1,801s",PASSED
+"click(findTestObject(""Object Repository/Comment/Page_Platform Media Berita Kolabora/span_Kasus Ciracas Iwan Paling""))",Chrome 70.0.3538.110,,2018-12-18 16:43:56,2018-12-18 16:43:57,"1,069s",PASSED
+"click(findTestObject(""Object Repository/Comment/Page_Kasus Ciracas Iwan Paling Seri/img""))",Chrome 70.0.3538.110,,2018-12-18 16:43:57,2018-12-18 16:44:02,"5,408s",PASSED
+"click(findTestObject(""Object Repository/Comment/Page_Kasus Ciracas Iwan Paling Seri/span_Masuk dengan Google""))",Chrome 70.0.3538.110,,2018-12-18 16:44:02,2018-12-18 16:44:05,"2,976s",PASSED
+"switchToWindowTitle(""Masuk - Akun Google"")",Chrome 70.0.3538.110,,2018-12-18 16:44:05,2018-12-18 16:44:16,"10,825s",PASSED
+"setText(findTestObject(""Object Repository/Comment/Page_Masuk - Akun Google/input_kumparan.com_identifier""), ""mmuhajir1010"")",Chrome 70.0.3538.110,,2018-12-18 16:44:16,2018-12-18 16:44:18,"1,982s",PASSED
+"click(findTestObject(""Object Repository/Comment/Page_Masuk - Akun Google/div_persyaratan layanan_ZFr60d""))",Chrome 70.0.3538.110,,2018-12-18 16:44:18,2018-12-18 16:44:20,"1,380s",FAILED
+,,,,,,
+Test Cases/TestRegisterLogin,Chrome 70.0.3538.110,,2018-12-18 16:44:20,2018-12-18 16:45:24,"1m - 4,788s",FAILED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-18 16:44:20,2018-12-18 16:44:27,"6,416s",PASSED
+"navigateToUrl(""https://kumparan.com/"")",Chrome 70.0.3538.110,,2018-12-18 16:44:27,2018-12-18 16:44:45,"18,056s",PASSED
+"click(findTestObject(""Object Repository/Regis/Page_Platform Media Berita Kolabora/button_TIDAK""))",Chrome 70.0.3538.110,,2018-12-18 16:44:45,2018-12-18 16:44:46,"1,272s",PASSED
+"click(findTestObject(""Object Repository/Regis/Page_Platform Media Berita Kolabora/span_Masuk dengan Google""))",Chrome 70.0.3538.110,,2018-12-18 16:44:46,2018-12-18 16:44:46,"0,380s",PASSED
+"switchToWindowTitle(""Masuk - Akun Google"")",Chrome 70.0.3538.110,,2018-12-18 16:44:46,2018-12-18 16:44:49,"2,809s",PASSED
+"setText(findTestObject(""Object Repository/Regis/Page_Masuk - Akun Google/input_kumparan.com_identifier""), ""mmuhajir1010"")",Chrome 70.0.3538.110,,2018-12-18 16:44:49,2018-12-18 16:44:50,"0,932s",PASSED
+"click(findTestObject(""Object Repository/Regis/Page_Masuk - Akun Google/content_Berikutnya""))",Chrome 70.0.3538.110,,2018-12-18 16:44:50,2018-12-18 16:44:51,"0,803s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Regis/Page_Masuk - Akun Google/input_Terlalu sering gagal_pas""), ""q2Vaax88tAK0LVJENWcd0g=="")",Chrome 70.0.3538.110,,2018-12-18 16:44:51,2018-12-18 16:44:52,"1,564s",PASSED
+"click(findTestObject(""Object Repository/Regis/Page_Masuk - Akun Google/content_Berikutnya""))",Chrome 70.0.3538.110,,2018-12-18 16:44:52,2018-12-18 16:45:24,"32,012s",FAILED
+,,,,,,
+Test Cases/TestSeeNews,Chrome 70.0.3538.110,,2018-12-18 16:45:24,2018-12-18 16:45:47,"22,190s",FAILED
+"openBrowser(""https://kumparan.com/"")",Chrome 70.0.3538.110,,2018-12-18 16:45:25,2018-12-18 16:45:45,"20,290s",PASSED
+"click(findTestObject(""Object Repository/SeeNews/Page_Platform Media Berita Kolabora/button_TIDAK""))",Chrome 70.0.3538.110,,2018-12-18 16:45:45,2018-12-18 16:45:47,"1,464s",FAILED

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+tessuitskumparan,,,2018-12-18 16:41:54,2018-12-18 16:41:59,"5,169s",FAILED
+,,,,,,
+Test Cases/TestComment,,,2018-12-18 16:41:55,2018-12-18 16:41:57,"2,593s",FAILED
+"openBrowser("""")",,,2018-12-18 16:41:56,2018-12-18 16:41:57,"1,555s",FAILED
+,,,,,,
+Test Cases/TestRegisterLogin,,,2018-12-18 16:41:57,2018-12-18 16:41:58,"0,766s",FAILED
+"openBrowser("""")",,,2018-12-18 16:41:58,2018-12-18 16:41:58,"0,056s",FAILED
+,,,,,,
+Test Cases/TestSeeNews,,,2018-12-18 16:41:58,2018-12-18 16:41:59,"0,929s",FAILED
+"openBrowser(""https://kumparan.com/"")",,,2018-12-18 16:41:59,2018-12-18 16:41:59,"0,052s",FAILED
